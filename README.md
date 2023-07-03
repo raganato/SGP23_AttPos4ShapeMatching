@@ -14,7 +14,7 @@ https://github.com/GiovanniTRA/transmatching
 Please cite the following paper if you use the data or code in this repo.
 
 ```
-@article {raganatoetalSGP2023,
+@article{raganatoetalSGP2023,
 journal = {Computer Graphics Forum},
 title = {{Attention And Positional Encoding Are (Almost) All You Need For Shape Matching}},
 author = {Raganato, Alessandro and Pasi, Gabriella and Melzi, Simone},
