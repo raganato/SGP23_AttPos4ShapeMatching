@@ -1,6 +1,5 @@
 # SGP23_AttPos4ShapeMatching
 
-**code coming soon!** 
 Paper at https://diglib.eg.org/handle/10.1111/cgf14912
 
 Code based on the X-Transformers library by Lucidrains:
@@ -8,6 +7,13 @@ https://github.com/lucidrains/x-transformers
 
 Utils and Testing from the transmatching code by GiovanniTRA:
 https://github.com/GiovanniTRA/transmatching
+
+**more info coming soon!** 
+
+to test the trained model on FAUST1K, simply run: 
+```bash
+python faust1k_ropeattn.py
+```
 
 ## Citation
 
