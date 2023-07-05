@@ -34,8 +34,6 @@ def main(args):
         dim_head_custom = 64,
         pre_norm=False,
         residual_attn=True,
-        position_infused_attn=False,
-        use_linear_attn=False,
         rotary_pos_emb=True,
         rotary_emb_dim=64
     ).cuda()
