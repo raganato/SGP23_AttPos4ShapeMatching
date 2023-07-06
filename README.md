@@ -2,6 +2,8 @@
 
 Paper at https://diglib.eg.org/handle/10.1111/cgf14912
 
+![image-teaser](./teaser.png)
+
 Code based on the X-Transformers library by Lucidrains:
 https://github.com/lucidrains/x-transformers
 
